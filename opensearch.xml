@@ -4,8 +4,8 @@
   <ShortName>Envatar</ShortName>
   <Description>Search Envatar</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://enftr.github.io/envatar-landing/favicon/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://enftr.github.io/envatar-landing/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://enftr.github.io/envatar-landing/opensearch.xml" />
-  <moz:SearchForm>https://enftr.github.io/envatar-landing/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://enftr.github.io/envatar-landing/envatar-landing/favicon/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://enftr.github.io/envatar-landing/envatar-landing/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://enftr.github.io/envatar-landing/envatar-landing/opensearch.xml" />
+  <moz:SearchForm>https://enftr.github.io/envatar-landing/envatar-landing/</moz:SearchForm>
 </OpenSearchDescription>
